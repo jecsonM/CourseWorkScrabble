@@ -1,0 +1,14 @@
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\bin\Debug\net8.0\ConsoleAppErudit.exe
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\bin\Debug\net8.0\ConsoleAppErudit.deps.json
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\bin\Debug\net8.0\ConsoleAppErudit.runtimeconfig.json
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\bin\Debug\net8.0\ConsoleAppErudit.dll
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\bin\Debug\net8.0\ConsoleAppErudit.pdb
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.AssemblyInfoInputs.cache
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.AssemblyInfo.cs
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.csproj.CoreCompileInputs.cache
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.dll
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\refint\ConsoleAppErudit.dll
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.pdb
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.genruntimeconfig.cache
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ref\ConsoleAppErudit.dll
