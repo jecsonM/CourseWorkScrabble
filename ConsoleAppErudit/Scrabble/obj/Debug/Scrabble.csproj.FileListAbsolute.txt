@@ -1,0 +1,6 @@
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\Scrabble\bin\Debug\Scrabble.dll
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\Scrabble\bin\Debug\Scrabble.pdb
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\Scrabble\obj\Debug\Scrabble.csproj.AssemblyReference.cache
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\Scrabble\obj\Debug\Scrabble.dll
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\Scrabble\obj\Debug\Scrabble.pdb

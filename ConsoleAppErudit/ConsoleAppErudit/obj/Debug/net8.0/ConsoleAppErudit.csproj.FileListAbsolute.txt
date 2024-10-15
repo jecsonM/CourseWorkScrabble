@@ -12,3 +12,7 @@ F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAp
 F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.pdb
 F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.genruntimeconfig.cache
 F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ref\ConsoleAppErudit.dll
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\bin\Debug\net8.0\Scrabble.dll
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\bin\Debug\net8.0\Scrabble.pdb
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleAppErudit.csproj.AssemblyReference.cache
+F:\Pictures\мои док(и)\.progi\CourseWorkERUDIT\ConsoleAppErudit\ConsoleAppErudit\obj\Debug\net8.0\ConsoleA.71E8D635.Up2Date

@@ -27,7 +27,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ConsoleAppErudit",
+              "Title": "ConsoleAppErudit.csproj",
               "DocumentMoniker": "F:\\Pictures\\\u043C\u043E\u0438 \u0434\u043E\u043A(\u0438)\\.progi\\CourseWorkERUDIT\\ConsoleAppErudit\\ConsoleAppErudit\\ConsoleAppErudit.csproj",
               "RelativeDocumentMoniker": "ConsoleAppErudit\\ConsoleAppErudit.csproj",
               "ToolTip": "F:\\Pictures\\\u043C\u043E\u0438 \u0434\u043E\u043A(\u0438)\\.progi\\CourseWorkERUDIT\\ConsoleAppErudit\\ConsoleAppErudit\\ConsoleAppErudit.csproj",
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Scrabble\\Scrabble.cs",
               "ToolTip": "F:\\Pictures\\\u043C\u043E\u0438 \u0434\u043E\u043A(\u0438)\\.progi\\CourseWorkERUDIT\\ConsoleAppErudit\\Scrabble\\Scrabble.cs",
               "RelativeToolTip": "Scrabble\\Scrabble.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAUwGgAAAAYAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAcwKQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T14:22:28.887Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "ConsoleAppErudit\\Program.cs",
               "ToolTip": "F:\\Pictures\\\u043C\u043E\u0438 \u0434\u043E\u043A(\u0438)\\.progi\\CourseWorkERUDIT\\ConsoleAppErudit\\ConsoleAppErudit\\Program.cs",
               "RelativeToolTip": "ConsoleAppErudit\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T13:12:22.325Z",
               "EditorCaption": ""

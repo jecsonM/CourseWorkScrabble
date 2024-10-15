@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppErudit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a4f5ba17aa52649d7b00022a7b2fcd06897e32")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppErudit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppErudit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

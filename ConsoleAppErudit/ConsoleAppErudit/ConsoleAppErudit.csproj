@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Scrabble">
+      <HintPath>..\Scrabble\bin\Debug\Scrabble.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
